@@ -15,6 +15,9 @@ make media-pull     # lays out the media of media.rev into stories/ (git dir: .m
 make media-push     # after generating: commit and push changed media, update media.rev
 ```
 
+How the two repositories work together — [docs/media.md](https://github.com/nemilya/grin/blob/main/docs/media.md)
+(по-русски — [docs/media.ru.md](https://github.com/nemilya/grin/blob/main/docs/media.ru.md)).
+
 ## License
 
 All media here were generated for the project (images — Seedream, narration — Gemini TTS) and are dedicated to
